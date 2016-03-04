@@ -1,5 +1,7 @@
-演示http://ecshop.liangsonghua.me/账号songhuapidan@gmail.cpm密码rootroot
-后台http://ecshop.liangsonghua.me/admin/login/login账号root密码rootroot
+演示http://ecshop.liangsonghua.me/
+账号songhuapidan@gmail.cpm密码rootroot
+后台http://ecshop.liangsonghua.me/admin/login/login
+账号root密码rootroot
 天数：12天。
 使用的技术：ThinkPHP3.2.1
 功能模块：
